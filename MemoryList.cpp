@@ -4,7 +4,6 @@
  
  Memory List IMPLEMENTATION FILE
  
- SOPHIE DAVISON ( allocateBlock() and setBiggestFree() )
  DAVID SAUNTSON ( everything else incl coalescePrevious() )
  March 2011
  
