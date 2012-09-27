@@ -4,7 +4,7 @@
  
  Memory List IMPLEMENTATION FILE
  
- DAVID SAUNTSON ( everything else incl coalescePrevious() )
+ DAVID SAUNTSON
  March 2011
  
  */
